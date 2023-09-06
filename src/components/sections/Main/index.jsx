@@ -5,6 +5,7 @@ import BeTheBest from "./components/BeTheBest";
 import OpenVacancies from "./components/OpenVacancies";
 import MeetAheadApp from "./components/MeetAheadApp";
 import BeforeYouGetStarted from "./components/BeforeYouGetStarted";
+import WorkWithUs from "./components/WorkWithUs";
 
 const Main = () => {
   return (
@@ -14,6 +15,7 @@ const Main = () => {
       <MeetAheadApp />
       <BeTheBest />
       <BeforeYouGetStarted />
+      <WorkWithUs />
       <OpenVacancies />
     </div>
   );
