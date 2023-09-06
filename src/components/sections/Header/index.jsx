@@ -3,7 +3,7 @@ import headerImage from "../../../Images/hearder.jpg";
 
 const Header = () => {
   return (
-    <div className="flex items-center justify-center mt-32">
+    <div className="flex items-center justify-center mt-24">
       <img src={headerImage} className="text-center" />
     </div>
   );
