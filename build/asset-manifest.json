@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/density_assessment/static/css/main.2ac38b5f.css",
+    "main.js": "/density_assessment/static/js/main.87363568.js",
+    "static/media/images-3.jpg": "/density_assessment/static/media/images-3.d192887996704d9b61ea.jpg",
+    "static/media/hearder.jpg": "/density_assessment/static/media/hearder.3020a9cd3af81f745f84.jpg",
+    "static/media/meet-ahead-app.jpg": "/density_assessment/static/media/meet-ahead-app.f7790222aa67540701ab.jpg",
+    "static/media/brand-logo.jpg": "/density_assessment/static/media/brand-logo.a0aae1cefd7465cfbe34.jpg",
+    "static/media/images-2.jpg": "/density_assessment/static/media/images-2.2e3a1c143df56847b117.jpg",
+    "static/media/images-1.jpg": "/density_assessment/static/media/images-1.76c9d52c5b181387778f.jpg",
+    "index.html": "/density_assessment/index.html",
+    "main.2ac38b5f.css.map": "/density_assessment/static/css/main.2ac38b5f.css.map",
+    "main.87363568.js.map": "/density_assessment/static/js/main.87363568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac38b5f.css",
+    "static/js/main.87363568.js"
+  ]
+}
