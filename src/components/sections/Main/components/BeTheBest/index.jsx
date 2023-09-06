@@ -2,7 +2,7 @@ import React from "react";
 
 const BeTheBest = () => {
   return (
-    <div className="w-full py-4 px-14 my-4 mx-auto flex justify-between">
+    <div className="w-full py-4 px-14 my-16 mx-auto flex justify-between">
       <div className="w-1/5">
         <h2 className="text-3xl font-bold">Be the best you with EQ</h2>
       </div>

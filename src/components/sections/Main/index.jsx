@@ -6,6 +6,7 @@ import OpenVacancies from "./components/OpenVacancies";
 import MeetAheadApp from "./components/MeetAheadApp";
 import BeforeYouGetStarted from "./components/BeforeYouGetStarted";
 import WorkWithUs from "./components/WorkWithUs";
+import RateYourSocialSkills from "./components/RateYourSocialSkills";
 
 const Main = () => {
   return (
@@ -14,6 +15,7 @@ const Main = () => {
       <SoundFamiliar />
       <MeetAheadApp />
       <BeTheBest />
+      <RateYourSocialSkills />
       <BeforeYouGetStarted />
       <WorkWithUs />
       <OpenVacancies />
