@@ -1,22 +1,16 @@
 import React from "react";
-import {
-  BrandLogoContainer,
-  DownloadButtonContainer,
-  MiddleContentContainer,
-  NavbarWrapper,
-} from "./style";
 import brandImage from "../../../Images/brand-logo.jpg";
 
 const Navbar = () => {
   return (
-    <NavbarWrapper>
+    <div className="container">
       <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a href="#" class="flex items-center">
             <img
               src={brandImage}
               class="h-12 mr-3 rounded-lg"
-              alt="Flowbite Logo"
+              alt="brand Logo"
             />
           </a>
           <div class="flex md:order-2">
@@ -93,7 +87,7 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
-    </NavbarWrapper>
+    </div>
   );
 };
 
